@@ -1,6 +1,6 @@
 # devops-aula04
-Aula04 - musicas
+Aula04 - filme
 
-musica 01
-musica 02
-musica 03
+filme 01
+filme 02
+filme 03
